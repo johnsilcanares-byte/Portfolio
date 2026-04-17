@@ -6,6 +6,7 @@ This repository contains my personal portfolio showcasing various system project
 This portfolio was created as part of a class activity, aiming to demonstrate my understanding of software development, problem-solving, and system design.
 
 🎯 Objectives
+
 #To demonstrate my programming and development skills
 
 #To document my learning journey as a student developer
