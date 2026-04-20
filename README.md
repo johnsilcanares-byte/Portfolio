@@ -17,14 +17,10 @@ This portfolio was created as part of a class activity, aiming to demonstrate my
 👉 View my portfolio here:
 https://portfolio-johnsilcanares.streamlit.app/
 
-📦 Portfolio
 
- ┃
- ┃
+📦 Portfolio
  ┗ 📂 streamlit_activity2
  
-    ┃
-    ┃
     ┣ 📂 cert
     ┣ 📂 image
     ┣ 📂 pages
