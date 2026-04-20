@@ -19,10 +19,11 @@ https://portfolio-johnsilcanares.streamlit.app/
 
 📁 Project Structure
 
+
 📦 Portfolio
 
-
  ┗ 📂 streamlit_activity2
+ 
     ┣ 📂 cert
     ┣ 📂 image
     ┣ 📂 pages
