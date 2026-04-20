@@ -18,7 +18,9 @@ This portfolio was created as part of a class activity, aiming to demonstrate my
 https://portfolio-johnsilcanares.streamlit.app/
 
 📦 Portfolio
+ ┃
  ┗ 📂 streamlit_activity2
+    ┃
     ┣ 📂 cert
     ┣ 📂 image
     ┣ 📂 pages
