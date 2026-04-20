@@ -19,17 +19,15 @@ https://portfolio-johnsilcanares.streamlit.app/
 
 📁 Project Structure
 
-
-📦 Portfolio
-
- ┗ 📂 streamlit_activity2
- 
-    ┣ 📂 cert
-    ┣ 📂 image
-    ┣ 📂 pages
-    ┃ ┣ 📜 1_🏠_Home.py
-    ┃ ┣ 📜 2_👨‍💻_About.py
-    ┃ ┣ 📜 3_🛠_Skills.py
-    ┃ ┣ 📜 4_📁_Projects.py
-    ┃ ┗ 📜 5_📩_Contacts.py
-    ┗ 📜 🚀_Portfolio.py
+📦 Portfolio/
+└── streamlit_activity2/
+    ├── cert/             
+    Certification assets
+    ├── image/           
+    ├── pages/           
+    │   ├── 1_🏠_Home.py
+    │   ├── 2_👩‍💻_About.py
+    │   ├── 3_🛠️_Skills.py
+    │   ├── 4_📂_Projects.py
+    │   └── 5_📩_Contacts.py
+    └── 🚀_Portfolio.py  
