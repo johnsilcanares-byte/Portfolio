@@ -16,8 +16,9 @@ This portfolio was created as part of a class activity, aiming to demonstrate my
 🔗 Link Demo
 👉 View my portfolio here:
 https://portfolio-johnsilcanares.streamlit.app/
-
-📦 Portfolio
+---
+## 📦 Portfolio
+'''
  ┗ 📂 streamlit_activity2
     ┣ 📂 cert
     ┣ 📂 image
@@ -28,3 +29,5 @@ https://portfolio-johnsilcanares.streamlit.app/
     ┃ ┣ 📜 4_📁_Projects.py
     ┃ ┗ 📜 5_📩_Contacts.py
     ┗ 📜 🚀_Portfolio.py
+'''
+---
