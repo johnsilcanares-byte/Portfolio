@@ -7,8 +7,8 @@ This portfolio was created as part of a class activity, aiming to demonstrate my
 
 🎯 Objectives
 
-#To demonstrate my programming and development skills
+•To demonstrate my programming and development skills
 
-#To document my learning journey as a student developer
+•To document my learning journey as a student developer
 
-#To apply real-world concepts in building functional systems
+•To apply real-world concepts in building functional systems
