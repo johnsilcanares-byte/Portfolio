@@ -17,16 +17,14 @@ This portfolio was created as part of a class activity, aiming to demonstrate my
 👉 View my portfolio here:
 https://portfolio-johnsilcanares.streamlit.app/
 
-📁 Project Structure
-
 📦 Portfolio
- └── 📂 streamlit_activity2
-      ├── 📂 cert
-      ├── 📂 image
-      ├── 📂 pages
-      │    ├── 📜 1_🏠_Home.py
-      │    ├── 📜 2_👩‍💻_About.py
-      │    ├── 📜 3_🛠️_Skills.py
-      │    ├── 📜 4_📂_Projects.py
-      │    └── 📜 5_📩_Contacts.py
-      └── 📜 🚀_Portfolio.py
+ ┗ 📂 streamlit_activity2
+    ┣ 📂 cert
+    ┣ 📂 image
+    ┣ 📂 pages
+    ┃ ┣ 📜 1_🏠_Home.py
+    ┃ ┣ 📜 2_👨‍💻_About.py
+    ┃ ┣ 📜 3_🛠_Skills.py
+    ┃ ┣ 📜 4_📁_Projects.py
+    ┃ ┗ 📜 5_📩_Contacts.py
+    ┗ 📜 🚀_Portfolio.py
