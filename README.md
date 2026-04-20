@@ -17,6 +17,7 @@ This portfolio was created as part of a class activity, aiming to demonstrate my
 👉 View my portfolio here:
 https://portfolio-johnsilcanares.streamlit.app
 
+ 📂 File Structure
 ```text
 📦 Portfolio
 └─ 📂 streamlit_activity2
