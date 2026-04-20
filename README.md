@@ -19,7 +19,9 @@ https://portfolio-johnsilcanares.streamlit.app/
 
 📦 Portfolio
  ┃
+ ┃
  ┗ 📂 streamlit_activity2
+    ┃
     ┃
     ┣ 📂 cert
     ┣ 📂 image
